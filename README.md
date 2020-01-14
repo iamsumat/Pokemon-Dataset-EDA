@@ -1,4 +1,4 @@
-#Pokemon Dataset Exploratory Data Analysis 
+# Pokemon Dataset Exploratory Data Analysis 
 
 This repository contains a dataset and my analysis of the dataset on Jupyter Notebook.
 
